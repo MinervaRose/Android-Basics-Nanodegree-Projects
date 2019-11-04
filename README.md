@@ -48,6 +48,6 @@ Further to the Android Basics Nanodegree, I have been working on self-directed p
 * [Totorofy App](https://github.com/SabrinaPalis/MyTotorofyapp) Not my code. Google Vision Photo overlay utilising the Emojiy code.
 
 
-
+👾Students are responsible for their own work. Do not submit my projects as your own as part of a course or you will be at risk of getting expelled for plagiarism.👾
 
 
