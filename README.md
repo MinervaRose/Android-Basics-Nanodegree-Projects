@@ -1,10 +1,12 @@
 # Android Basics Nanodegree Projects
 
+<img src="https://user-images.githubusercontent.com/39020690/68104264-65f49780-fea8-11e9-884e-77d335718ed0.png" width="600">
+
 <img src="https://user-images.githubusercontent.com/39020690/68104172-08604b00-fea8-11e9-9d87-eabe24d66682.png" width="600">
 
 On November 6, 2017 I received a life changing email - I was offered a seat to the Google Developer Scholarship Challenge at Udacity. Little did I know that I had it in me to become a developer. As I write those lines in November 2019, I still can't believe how far I've gone. From total newbie, with no knowledge of computer science, to now confident android developer, data science and AI practitioner. I am so very grateful to Udacity and the generous sponsorship of Google.
 
-Please find the android developement projects that I submitted to the Android Basics Nanodegree by Google in the repositories linked below. So far I left most of them as they were when I submitted them. 
+Please find the android developement projects that I submitted to the [Android Basics Nanodegree by Google](https://confirm.udacity.com/XAF5RDPS) in the repositories linked below. So far I left most of them as they were when I submitted them. 
 
 * [Quiz App](https://github.com/SabrinaPalis/KurtVonnegutQuizApp)
 * [Score Keeper App](https://github.com/SabrinaPalis/CanadianFootballLeagueScoreKeeper)
@@ -45,7 +47,6 @@ Further to the Android Basics Nanodegree, I have been working on self-directed p
 * [Llama note App](https://github.com/SabrinaPalis/MyLlamaNoteApp) Using shared preferences for very short notes.
 * [Totorofy App](https://github.com/SabrinaPalis/MyTotorofyapp) Not my code. Google Vision Photo overlay utilising the Emojiy code.
 
-[![image alt text](hhttps://user-images.githubusercontent.com/39020690/68104264-65f49780-fea8-11e9-884e-77d335718ed0.png)](https://confirm.udacity.com/XAF5RDPS)
 
 
 
