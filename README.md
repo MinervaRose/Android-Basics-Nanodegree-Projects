@@ -65,7 +65,7 @@ Some examples include:
 
 * [Dalek Deterrence App](https://github.com/MinervaRose/d.deterrence)
 * [Basic Klingon Language App](https://github.com/MinervaRose/MyBasicKlingonapp)
-* [Custom Weather App](https://github.com/MinervaRoses/WeatherApp)
+* [Custom Weather App](https://github.com/MinervaRose/WeatherApp)
 * [Meteor Tracker App](https://github.com/MinervaRose/MeteorTracker)
 * [Space Notebook App](https://github.com/MinervaRose/SpaceNoteBookApp)
 * [Star Picker](https://github.com/MinervaRose/StarPickerV1)
