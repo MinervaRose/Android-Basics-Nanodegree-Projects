@@ -51,7 +51,7 @@ The following projects were completed as part of the Android Basics Nanodegree c
 | [Quiz App](https://github.com/MinervaRose/KurtVonnegutQuizApp)                       | Android Fundamentals        |
 | [Score Keeper App](https://github.com/MinervaRose/CanadianFootballLeagueScoreKeeper) | User Interaction            |
 | [Musical Structure and Player App](https://github.com/MinervaRose/MusicalStructure)  | Navigation & UI             |
-| [Newsfeed App](https://github.com/MinervaRoses/MyNewsApp)                             | APIs & Content              |
+| [Newsfeed App](https://github.com/MinervaRose/MyNewsApp)                             | APIs & Content              |
 | [Tour Guide App](https://github.com/MinervaRose/SalzburgMozartTourApp)               | Multi-Activity App Design   |
 | [Inventory App Capstone Project](https://github.com/MinervaRose/MyInventoryApp)      | Data Persistence & Capstone |
 
